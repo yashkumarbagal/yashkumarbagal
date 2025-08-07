@@ -17,21 +17,26 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+
 
 ### 🧑‍💻 Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
+
 ### 📊 Data & Analytics
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel Logo](https://img.icons8.com/color/48/microsoft-excel-2019--v1.png)
 ![SQL](https://img.shields.io/badge/SQL-07405e?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
 
 ### ☁️ Cloud & Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=flat&logo=google-cloud&logoColor=white)
@@ -49,7 +54,8 @@
 ---
 
 ## 📫 Reach Me
-📧 Email: [bagalyash2002@gmail.com](mailto:bagalyash2002@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bagalyash2002@gmail.com): [bagalyash2002@gmail.com](mailto:bagalyash2002@gmail.com)
+
 
 ---
 
