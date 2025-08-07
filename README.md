@@ -14,9 +14,9 @@
 💡 Backend Developer | Data Analyst | ML Enthusiast  
 🛠 Passionate about solving real-world problems through logic, data, and visualization  
 ☁️ Exploring Cloud, AI, and Scalable Systems
----
 
----
+
+----
 
 
 
@@ -74,7 +74,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yashkumarbagal?theme=light&font=baloo&ext=heatmap)
 
----
+----
 
 
 ## 📫 Reach Me
