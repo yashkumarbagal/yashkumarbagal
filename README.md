@@ -71,12 +71,13 @@
 
 
 ## 🧠 LeetCode
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashkumarbagal/)
+
+<div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/yashkumarbagal?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/yashkumarbagal/)
 
-
+</div>
 
 ----
 
