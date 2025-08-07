@@ -1,52 +1,67 @@
 # 👋 Hi, I’m Yash! (Yashkumar Bagal)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkumarbagal/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yashkumarbagal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/yashkumarbagal/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:bagalyash2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkumarbagal/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/yashkumarbagal)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yashkumarbagal/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bagalyash2002@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sho.nobi)
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
-🎓 I'm Yashkumar Bagal, but you can call me **Yash**. I'm a passionate final-year Computer Engineering student with a strong interest in backend development, data analysis, and machine learning.
-
-🛠️ I love solving real-world problems with code and building projects that combine **data, logic, and visualization**.
-
----
-
-## 🧠 Languages & Technologies
-
-- 💻 Programming: `C`, `C++`, `Java`, `Python`
-- 🗄️ Database: `SQL`, `MongoDB`
-- 📊 Data & Analytics: `Power BI`, `Machine Learning`
-- 🌐 Web: `Django`
-- ⚙️ Tools: Git, GitHub, VS Code
+🎓 Final-year Computer Engineering student  
+💡 Backend Dev | Data Analyst | ML Enthusiast  
+🛠 Passionate about solving real-world problems through logic, data & visualization
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 Tech Stack
+
+- 💻 `C`, `C++`, `Java`, `Python`
+- 🗃️ `SQL`, `MongoDB`
+- 📊 `Power BI`, `Machine Learning`
+- 🌐 `Django`
+- ⚙️ Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
 
 ![Yashkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkumarbagal&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkumarbagal&layout=compact&theme=radical)
 
 ---
 
-## 📂 Projects
+## 🧠 LeetCode Performance
 
-🚀 [McDonalds-SalesPerformance-Dashboard-2024](https://github.com/yashkumarbagal/McDonalds-SalesPerformance-Dashboard-2024)  
-*Interactive Excel Dashboard analyzing McDonald's sales in South America.*
+| Metric              | Value   |
+|---------------------|---------|
+| Problems Solved     | 400+    |
+| Contest Rating      | 1650+   |
+| Platform Rank       | Top 15% |
+| Active Since        | 2023    |
 
-📊 [Sales-Insight-Dashboard-PowerBI-SQL](https://github.com/yashkumarbagal/Sales-Insight-Dashboard-PowerBI-SQL)  
-*Power BI & SQL based sales dashboard inspired by Codebasics.*
-
----
-
-## 📬 Contact Me
-
-💌 Email: [bagalyash2002@gmail.com](mailto:bagalyash2002@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yashkumarbagal](https://www.linkedin.com/in/yashkumarbagal)
+🔗 [Visit LeetCode Profile](https://leetcode.com/u/yashkumarbagal/)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🚀 Projects
+
+- 📈 **[McDonalds-SalesPerformance-Dashboard-2024](https://github.com/yashkumarbagal/McDonalds-SalesPerformance-Dashboard-2024)**  
+  *Interactive Excel dashboard analyzing McDonald's sales data.*
+
+- 📊 **[Sales-Insight-Dashboard-PowerBI-SQL](https://github.com/yashkumarbagal/Sales-Insight-Dashboard-PowerBI-SQL)**  
+  *Sales dashboard built using Power BI & SQL, inspired by Codebasics.*
+
+---
+
+## 📬 Contact
+
+📧 [bagalyash2002@gmail.com](mailto:bagalyash2002@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/yashkumarbagal)  
+📸 [Instagram](https://instagram.com/sho.nobi)
+
+---
+
+> 🧠 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
