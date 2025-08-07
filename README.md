@@ -59,8 +59,9 @@
 
 
 ### Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-%2302405C.svg?style=flat&logo=blockchain-dot-com&logoColor=white)
