@@ -74,16 +74,8 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/yashkumarbagal/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yashkumarbagal?theme=light&font=baloo&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yashkumarbagal?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/yashkumarbagal/)
 
-
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=leetcode&logoColor=white&labelColor=000000)
-
-![LeetCode](https://img.shields.io/badge/LeetCode-Practice-000000?style=flat-square&logo=leetcode&logoColor=white)
-
-![LeetCode](https://img.shields.io/badge/LeetCode-Solved-black?style=flat&logo=leetcode&logoColor=orange)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/yashkumarbagal?theme=dark&font=baloo&ext=activity)
 
 
 ----
