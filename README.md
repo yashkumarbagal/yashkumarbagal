@@ -83,6 +83,16 @@
 
 ## 📫 Reach Me
 Email: [bagalyash2002@gmail.com](mailto:bagalyash2002@gmail.com)
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bagalyash2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkumarbagal/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sho.nobi)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/919307157461)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yashkumarbagal)
+
+</div>
+
 
 
 ---
