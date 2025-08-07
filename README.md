@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yash! 
+#  Hey, I’m Yash ! 👋
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:bagalyash2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkumarbagal/)
