@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hey, I'm Yash Bagal
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Machine+Learning+Engineer;AI+Enthusiast;Big+Data+%7C+PySpark+%7C+AWS+%7C+GenAI"/>
 </p>
@@ -55,75 +54,49 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">📊 GitHub Event Analytics Platform</h3>
+## 📊 GitHub Event Analytics Platform
 
-<p align="center">
-Big Data Analytics Platform
-</p>
-
----
+A scalable analytics platform for processing GitHub Archive events using modern Big Data technologies.
 
 ### ⚙️ Tech Stack
 
-- Python
-- PySpark
-- AWS S3
-- Databricks
-- Apache Airflow
+`Python` • `PySpark` • `AWS S3` • `Databricks` • `Apache Airflow`
 
-<br>
+🔗 **Repository**
 
-<p align="center">
-
-<a href="https://github.com/CDAC-BDA-Projects/GitHub-Event-Analytics-Platform">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+https://github.com/CDAC-BDA-Projects/GitHub-Event-Analytics-Platform
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🌍 Climate Intelligence & Forecasting</h3>
+## 🌍 Climate Intelligence & Forecasting Platform
 
-<p align="center">
-AI-Powered Climate Forecasting Platform
-</p>
-
----
+AI-powered climate forecasting platform with Machine Learning and Generative AI.
 
 ### ⚙️ Tech Stack
 
-- Python
-- XGBoost
-- Scikit-learn
-- CrewAI
-- RAG
-- ChromaDB
-- Ollama
-- Streamlit
+`Python` • `XGBoost` • `Scikit-learn` • `Pandas` • `CrewAI` • `RAG` • `ChromaDB` • `Ollama` • `Streamlit`
 
-<p align="center">
+🔗 **Repository**
 
-<a href="https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platform">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platform
 
 </td>
 
 </tr>
 
 </table>
+
+---
 
 # 💻 Tech Stack
 
