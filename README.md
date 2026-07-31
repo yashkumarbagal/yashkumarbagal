@@ -53,6 +53,7 @@
 🔹 Open to **Data Engineering, Machine Learning & AI Opportunities**
 
 ---
+<br>
 
 # 🚀 Featured Projects
 
