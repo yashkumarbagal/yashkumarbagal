@@ -55,49 +55,75 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
-## 📊 GitHub Event Analytics Platform
+<h3 align="center">📊 GitHub Event Analytics Platform</h3>
 
-A scalable analytics platform for processing GitHub Archive events using modern Big Data technologies.
+<p align="center">
+Big Data Analytics Platform
+</p>
+
+---
 
 ### ⚙️ Tech Stack
 
-`Python` • `PySpark` • `AWS S3` • `Databricks` • `Apache Airflow`
+- Python
+- PySpark
+- AWS S3
+- Databricks
+- Apache Airflow
 
-🔗 **Repository**
+<br>
 
-https://github.com/CDAC-BDA-Projects/GitHub-Event-Analytics-Platform
+<p align="center">
+
+<a href="https://github.com/CDAC-BDA-Projects/GitHub-Event-Analytics-Platform">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌍 Climate Intelligence & Forecasting Platform
+<h3 align="center">🌍 Climate Intelligence & Forecasting</h3>
 
-AI-powered climate forecasting platform with Machine Learning and Generative AI.
+<p align="center">
+AI-Powered Climate Forecasting Platform
+</p>
+
+---
 
 ### ⚙️ Tech Stack
 
-`Python` • `XGBoost` • `Scikit-learn` • `Pandas` • `CrewAI` • `RAG` • `ChromaDB` • `Ollama` • `Streamlit`
+- Python
+- XGBoost
+- Scikit-learn
+- CrewAI
+- RAG
+- ChromaDB
+- Ollama
+- Streamlit
 
-🔗 **Repository**
+<p align="center">
 
-https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platform
+<a href="https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platform">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </td>
 
 </tr>
 
 </table>
-
----
 
 # 💻 Tech Stack
 
