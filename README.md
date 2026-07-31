@@ -35,11 +35,12 @@
 </a>
 
 </p>
+<br>
 
 </div>
 
 ---
-
+<br>
 # 👨‍💻 About Me
 
 🔹 Aspiring **Data Engineer**, **Machine Learning Engineer**, and **AI Engineer**
@@ -118,7 +119,8 @@ https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platfo
 <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 </p>
-
+<br>
+<br>
 ---
 
 ## 📊 Big Data & Data Engineering
@@ -144,6 +146,8 @@ https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platfo
 </p>
 
 ---
+<br>
+<br>
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
@@ -170,6 +174,8 @@ https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platfo
 </p>
 
 ---
+<br>
+<br> 
 
 ## 📈 Data Analytics & Visualization
 
@@ -186,6 +192,9 @@ https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platfo
 </p>
 
 ---
+
+<br>
+<br>
 
 ## 🗄️ Databases
 
@@ -222,6 +231,8 @@ https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platfo
 </p>
 
 ---
+<br>
+<br>
 
 # 🧩 Coding Profiles
 
@@ -242,6 +253,8 @@ https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platfo
 </div>
 
 ---
+<br>
+<br>
 
 # 📫 Connect With Me
 
@@ -262,10 +275,13 @@ https://github.com/CDAC-BDA-Projects/Climate-Intelligence-and-Forecasting-Platfo
 </div>
 
 ---
+<br>
+<br>
 
 <div align="center">
 
 ## ⭐ Thanks for Visiting My Profile!
+<br>
 
 ### *"Transforming Data into Insights, Models into Intelligence, and Ideas into Scalable Solutions."* 🚀
 
