@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Machine+Learning+Engineer;AI+Enthusiast;Big+Data+%7C+PySpark+%7C+AWS+%7C+GenAI"/>
 </p>
 
-### 🚀 Aspiring Data Engineer | Machine Learning Engineer | AI Enthusiast
+### 🚀 Aspiring Data Engineer | Aspiring AI-ML Engineer | Gen-AI Enthusiast
 
 🎓 **B.E. in Computer Engineering Graduate**  
 🎓 **PG Diploma in Big Data Analytics (CDAC)**
